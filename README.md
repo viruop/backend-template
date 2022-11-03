@@ -2,9 +2,15 @@
 
 <br />
 
+Add MongoDb Url & Port Number in .env file
+
 ### To run
 
 ```javascript
 npm install
-Add MongoDb Url & Port Number in .env file
+start script 
+npm run dev
+npm start
 ```
+
+
