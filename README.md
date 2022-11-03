@@ -1,4 +1,4 @@
-# Basic Mern Backend Boilerplate Template
+# Basic Mern Backend Template
 
 <br />
 
