@@ -4,12 +4,12 @@
 
 Add MongoDb Url & Port Number in .env file
 
-### To run
+### Install Dependencies
 
 ```javascript
 npm install
 ```
-##Start Script 
+### Start Script 
 ```javascript
 npm run dev /
 npm start
